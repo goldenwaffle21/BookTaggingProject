@@ -16,6 +16,8 @@ price, and the book's content, and search for books filtered by any of those (I 
 * JDBC
 * PostgreSQL
 * Wildfly 21
+* Servlets
+* JSPs
 
 ## Features
 
