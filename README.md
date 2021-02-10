@@ -26,6 +26,10 @@ List of features created by me:
 * View all of the tags other users have given to the book(s) you searched for.
 * Add or remove tags from a book, permanently storing the change in a database.
 
+To Do:
+* Currently throws an exception if you try to remove a tag that doesn't exist; need to fix.
+* Alphabetize when displaying a book's tags.
+
 ## Getting Started
    
 https://github.com/goldenwaffle21/BookTaggingProject.git
